@@ -11,7 +11,7 @@
 </p>
 
 <!-- Статистика активности -->
-<h3 align="center">📈 Статистика Активности</h3>
+<h3 align="center">📈 stats</h3>
 
 <div align="center">
   <a href="https://github.com/urancore">
@@ -19,7 +19,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=urancore&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=urancore&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide=prs,contribs"/><br>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urancore&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-    <img src="https://streak-stats.demolab.com?user=urancore&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </div>
 
