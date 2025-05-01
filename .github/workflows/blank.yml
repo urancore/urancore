@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update Exchange Rate
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Каждые 3 часа
+  workflow_dispatch:  # Ручной запуск
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README
+        run: python update_rate.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Update currency rate xD'
+
