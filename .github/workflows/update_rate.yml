@@ -4,7 +4,7 @@ name: Update Exchange Rate
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Каждые 3 часа
+      - cron: '31 8 * * *'  # 11:31 МСК (UTC+3)
   workflow_dispatch:  # Ручной запуск
 
 jobs:
