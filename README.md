@@ -7,4 +7,5 @@
 - 10$ = 814.93RUB
 - 1000RUB = 12.27$
 
-<sup>Data: [CBR](https://www.cbr.ru/development/SXML/) • Auto-updated on script run</sup>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urancore&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=dark)
