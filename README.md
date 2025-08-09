@@ -8,4 +8,4 @@
 - 1000RUB = 12.27$
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urancore&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urancore&theme=dark)
