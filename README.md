@@ -9,3 +9,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urancore&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urancore&theme=dark)
+![](https://count.getloli.com/get/@urancore.github.readme)
